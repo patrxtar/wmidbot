@@ -3,7 +3,7 @@
 ﻿
 ﻿
 ﻿
-﻿         /*   DONT CHANGE ANYTHING ABOVE   */
+﻿         /*   START   */
 ﻿
 ﻿
 ﻿          "1700656":"2014-09-09 14:16:26", // tischenko
@@ -49,7 +49,7 @@
           "1758554":"2014-09-09 14:16:26",
           "1690623":"2014-09-09 14:16:26"
           
-          /* DONT CHANGE ANYTHING BEYOND */
+          /* END */
           
           
           
